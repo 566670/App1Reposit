@@ -14,4 +14,8 @@ public void m3()
 {
 }
 
+public void n()
+{
+	System.out.println("asasas");
+}
 }
